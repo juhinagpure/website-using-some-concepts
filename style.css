@@ -149,3 +149,11 @@ nav {
     left: 0;
     top: 0;
 }
+.phone {
+  text-align: center;
+  align-items: center;
+}
+.carousel-item{
+    width: 150px;
+    height: 100px;
+}
